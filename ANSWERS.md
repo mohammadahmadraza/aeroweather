@@ -10,3 +10,11 @@ Note : Make sure you have install Node.js, before following the below steps.
 2. Choosing the Tailwind CSS is really worse because it took me more than 2 hours to set up it with react.
 
 **One real edge case**
+Its the user input handling on server side. As the application has to show the results based on user input. 
+Handling is done in server folder > index.js file and line no 23.
+
+**AI usage**
+I have used claude AI for frontend design, i have changed the weather details and flight details card.
+
+**Honest gap**
+In this application, two APIs are used one for weather data (https://openweathermap.org/) and one for flight data(https://www.goflightlabs.com/). Both apis are handle on one endpoint, i would handle both api calls in such a way that if any api is not responding then show error message accordingly.
