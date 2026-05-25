@@ -1,4 +1,5 @@
 **How to run**
+
 Note : Make sure you have install Node.js, before following the below steps.
 1. Go to https://github.com/mohammadahmadraza/aeroweather and click on **Code** button and click on **Download ZIP** option from the dropdown.
 2. Extract the files, go to client folder and open the folder in command prompt.
